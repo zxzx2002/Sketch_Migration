@@ -1,5 +1,5 @@
 # PSM Sketch_Migration
-Source code for PSM sketch migration (IWQoS 2026 under review).
+Source code for PSM sketch migration (IWQoS 2026).
 ## Paper
 PSM: Timely and Resource-Efficient Sketch Migration in Network Measurement
 ## Abstract
